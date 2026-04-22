@@ -1,4 +1,4 @@
-# Simple Interest Calculator
+# GitHub Final Project - Simple Interest Calculator
 
 This project is a simple tool designed to calculate the interest earned or paid over a specific period.
 
